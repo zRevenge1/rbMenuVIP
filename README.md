@@ -13,5 +13,5 @@
 • Options désactivables / Ajout peds etc dans le fichier Configuration
 
 # Social Medias
-**5% Leaks & Dev** - [Discord](https://discord.gg/wuHPzTjwmB)  
+**5% Leaks & Dev** - [Discord](https://discord.gg/8akQqxUMtq)  
 **FiveM Menus** - [Discord](https://discord.gg/eCAZveXq7X)
