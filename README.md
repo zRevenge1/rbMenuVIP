@@ -9,7 +9,7 @@
 • Start la resource dans server.cfg
 
 # Preview
-• Vidéo presentation - [Preview](https://www.youtube.com/watch?v=szOfXIpl0Rw)  
+• Vidéo presentation - [Preview](https://www.youtube.com/watch?v=QKicn3QWkKc)  
 • Options désactivables / Ajout peds etc dans le fichier Configuration
 
 # Social Medias
